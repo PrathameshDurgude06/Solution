@@ -1,0 +1,12 @@
+﻿@using StudentManagement.Models;
+@{
+    <ul>
+    @{
+    foreach (Student i in Model)
+    {
+       <li>@i.std_id @i.std_name @i.std_email @i.std_phone @i.std_Address @i.std_admissiondate @i.std_fees @i.std_status</li>
+    
+    }
+    }
+    </ul>
+}

@@ -1,0 +1,376 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\MS .NET\\.NET\\StudentSolutionFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6B0FBED-31DC-474B-B003-CB35A98D64DC}|StudentManagement\\StudentManagement.csproj|f:\\ms .net\\.net\\studentsolutionfinal\\studentmanagement\\repository\\connectioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6B0FBED-31DC-474B-B003-CB35A98D64DC}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\repository\\connectioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6B0FBED-31DC-474B-B003-CB35A98D64DC}|StudentManagement\\StudentManagement.csproj|f:\\ms .net\\.net\\studentsolutionfinal\\studentmanagement\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6B0FBED-31DC-474B-B003-CB35A98D64DC}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6B0FBED-31DC-474B-B003-CB35A98D64DC}|StudentManagement\\StudentManagement.csproj|f:\\ms .net\\.net\\studentsolutionfinal\\studentmanagement\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6B0FBED-31DC-474B-B003-CB35A98D64DC}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6B0FBED-31DC-474B-B003-CB35A98D64DC}|StudentManagement\\StudentManagement.csproj|f:\\ms .net\\.net\\studentsolutionfinal\\studentmanagement\\views\\student\\searchbyname.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6B0FBED-31DC-474B-B003-CB35A98D64DC}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\student\\searchbyname.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6B0FBED-31DC-474B-B003-CB35A98D64DC}|StudentManagement\\StudentManagement.csproj|f:\\ms .net\\.net\\studentsolutionfinal\\studentmanagement\\views\\student\\searchname.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6B0FBED-31DC-474B-B003-CB35A98D64DC}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\student\\searchname.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6B0FBED-31DC-474B-B003-CB35A98D64DC}|StudentManagement\\StudentManagement.csproj|f:\\ms .net\\.net\\studentsolutionfinal\\studentmanagement\\views\\student\\getallstudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6B0FBED-31DC-474B-B003-CB35A98D64DC}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\student\\getallstudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6B0FBED-31DC-474B-B003-CB35A98D64DC}|StudentManagement\\StudentManagement.csproj|f:\\ms .net\\.net\\studentsolutionfinal\\studentmanagement\\views\\student\\searchbydate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6B0FBED-31DC-474B-B003-CB35A98D64DC}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\student\\searchbydate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6B0FBED-31DC-474B-B003-CB35A98D64DC}|StudentManagement\\StudentManagement.csproj|f:\\ms .net\\.net\\studentsolutionfinal\\studentmanagement\\views\\student\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6B0FBED-31DC-474B-B003-CB35A98D64DC}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\student\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6B0FBED-31DC-474B-B003-CB35A98D64DC}|StudentManagement\\StudentManagement.csproj|f:\\ms .net\\.net\\studentsolutionfinal\\studentmanagement\\views\\student\\insert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6B0FBED-31DC-474B-B003-CB35A98D64DC}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\student\\insert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6B0FBED-31DC-474B-B003-CB35A98D64DC}|StudentManagement\\StudentManagement.csproj|f:\\ms .net\\.net\\studentsolutionfinal\\studentmanagement\\views\\student\\getdatebyinput.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6B0FBED-31DC-474B-B003-CB35A98D64DC}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\student\\getdatebyinput.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6B0FBED-31DC-474B-B003-CB35A98D64DC}|StudentManagement\\StudentManagement.csproj|f:\\ms .net\\.net\\studentsolutionfinal\\studentmanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6B0FBED-31DC-474B-B003-CB35A98D64DC}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6B0FBED-31DC-474B-B003-CB35A98D64DC}|StudentManagement\\StudentManagement.csproj|f:\\ms .net\\.net\\studentsolutionfinal\\studentmanagement\\views\\student\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6B0FBED-31DC-474B-B003-CB35A98D64DC}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\student\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6B0FBED-31DC-474B-B003-CB35A98D64DC}|StudentManagement\\StudentManagement.csproj|f:\\ms .net\\.net\\studentsolutionfinal\\studentmanagement\\service\\studentserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6B0FBED-31DC-474B-B003-CB35A98D64DC}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\service\\studentserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6B0FBED-31DC-474B-B003-CB35A98D64DC}|StudentManagement\\StudentManagement.csproj|f:\\ms .net\\.net\\studentsolutionfinal\\studentmanagement\\views\\student\\sortbyfees.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6B0FBED-31DC-474B-B003-CB35A98D64DC}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\student\\sortbyfees.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6B0FBED-31DC-474B-B003-CB35A98D64DC}|StudentManagement\\StudentManagement.csproj|f:\\ms .net\\.net\\studentsolutionfinal\\studentmanagement\\views\\student\\sort.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6B0FBED-31DC-474B-B003-CB35A98D64DC}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\student\\sort.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6B0FBED-31DC-474B-B003-CB35A98D64DC}|StudentManagement\\StudentManagement.csproj|f:\\ms .net\\.net\\studentsolutionfinal\\studentmanagement\\repository\\studentrepomanag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6B0FBED-31DC-474B-B003-CB35A98D64DC}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\repository\\studentrepomanag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6B0FBED-31DC-474B-B003-CB35A98D64DC}|StudentManagement\\StudentManagement.csproj|f:\\ms .net\\.net\\studentsolutionfinal\\studentmanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6B0FBED-31DC-474B-B003-CB35A98D64DC}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6B0FBED-31DC-474B-B003-CB35A98D64DC}|StudentManagement\\StudentManagement.csproj|f:\\ms .net\\.net\\studentsolutionfinal\\studentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6B0FBED-31DC-474B-B003-CB35A98D64DC}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6B0FBED-31DC-474B-B003-CB35A98D64DC}|StudentManagement\\StudentManagement.csproj|f:\\ms .net\\.net\\studentsolutionfinal\\studentmanagement\\repository\\istudentrepomanag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6B0FBED-31DC-474B-B003-CB35A98D64DC}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\repository\\istudentrepomanag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6B0FBED-31DC-474B-B003-CB35A98D64DC}|StudentManagement\\StudentManagement.csproj|f:\\ms .net\\.net\\studentsolutionfinal\\studentmanagement\\service\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6B0FBED-31DC-474B-B003-CB35A98D64DC}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\service\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6B0FBED-31DC-474B-B003-CB35A98D64DC}|StudentManagement\\StudentManagement.csproj|f:\\ms .net\\.net\\studentsolutionfinal\\studentmanagement\\studentmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C6B0FBED-31DC-474B-B003-CB35A98D64DC}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\studentmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SearchName.cshtml",
+              "DocumentMoniker": "F:\\MS .NET\\.NET\\StudentSolutionFinal\\StudentManagement\\Views\\Student\\SearchName.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Student\\SearchName.cshtml",
+              "ToolTip": "F:\\MS .NET\\.NET\\StudentSolutionFinal\\StudentManagement\\Views\\Student\\SearchName.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\Student\\SearchName.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T20:17:04.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SearchByName.cshtml",
+              "DocumentMoniker": "F:\\MS .NET\\.NET\\StudentSolutionFinal\\StudentManagement\\Views\\Student\\SearchByName.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Student\\SearchByName.cshtml",
+              "ToolTip": "F:\\MS .NET\\.NET\\StudentSolutionFinal\\StudentManagement\\Views\\Student\\SearchByName.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\Student\\SearchByName.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T19:51:31.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "View.cshtml",
+              "DocumentMoniker": "F:\\MS .NET\\.NET\\StudentSolutionFinal\\StudentManagement\\Views\\Student\\View.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Student\\View.cshtml",
+              "ToolTip": "F:\\MS .NET\\.NET\\StudentSolutionFinal\\StudentManagement\\Views\\Student\\View.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\Student\\View.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T19:43:41.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetDateByInput.cshtml",
+              "DocumentMoniker": "F:\\MS .NET\\.NET\\StudentSolutionFinal\\StudentManagement\\Views\\Student\\GetDateByInput.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Student\\GetDateByInput.cshtml",
+              "ToolTip": "F:\\MS .NET\\.NET\\StudentSolutionFinal\\StudentManagement\\Views\\Student\\GetDateByInput.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\Student\\GetDateByInput.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T19:25:38.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SearchByDate.cshtml",
+              "DocumentMoniker": "F:\\MS .NET\\.NET\\StudentSolutionFinal\\StudentManagement\\Views\\Student\\SearchByDate.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Student\\SearchByDate.cshtml",
+              "ToolTip": "F:\\MS .NET\\.NET\\StudentSolutionFinal\\StudentManagement\\Views\\Student\\SearchByDate.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\Student\\SearchByDate.cshtml",
+              "ViewState": "AQIAAB8AAAAAMzMzMzMLwAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T19:12:00.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SortByFees.cshtml",
+              "DocumentMoniker": "F:\\MS .NET\\.NET\\StudentSolutionFinal\\StudentManagement\\Views\\Student\\SortByFees.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Student\\SortByFees.cshtml",
+              "ToolTip": "F:\\MS .NET\\.NET\\StudentSolutionFinal\\StudentManagement\\Views\\Student\\SortByFees.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\Student\\SortByFees.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T19:03:04.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Sort.cshtml",
+              "DocumentMoniker": "F:\\MS .NET\\.NET\\StudentSolutionFinal\\StudentManagement\\Views\\Student\\Sort.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Student\\Sort.cshtml",
+              "ToolTip": "F:\\MS .NET\\.NET\\StudentSolutionFinal\\StudentManagement\\Views\\Student\\Sort.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\Student\\Sort.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T18:58:13.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "F:\\MS .NET\\.NET\\StudentSolutionFinal\\StudentManagement\\Views\\Student\\Update.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Student\\Update.cshtml",
+              "ToolTip": "F:\\MS .NET\\.NET\\StudentSolutionFinal\\StudentManagement\\Views\\Student\\Update.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\Student\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T17:41:43.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Insert.cshtml",
+              "DocumentMoniker": "F:\\MS .NET\\.NET\\StudentSolutionFinal\\StudentManagement\\Views\\Student\\Insert.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Student\\Insert.cshtml",
+              "ToolTip": "F:\\MS .NET\\.NET\\StudentSolutionFinal\\StudentManagement\\Views\\Student\\Insert.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\Student\\Insert.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T17:23:20.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\MS .NET\\.NET\\StudentSolutionFinal\\StudentManagement\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\MS .NET\\.NET\\StudentSolutionFinal\\StudentManagement\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StudentManagement\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA1wAoAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:11:46.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentServiceImpl.cs",
+              "DocumentMoniker": "F:\\MS .NET\\.NET\\StudentSolutionFinal\\StudentManagement\\Service\\StudentServiceImpl.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Service\\StudentServiceImpl.cs",
+              "ToolTip": "F:\\MS .NET\\.NET\\StudentSolutionFinal\\StudentManagement\\Service\\StudentServiceImpl.cs",
+              "RelativeToolTip": "StudentManagement\\Service\\StudentServiceImpl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:16:34.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "F:\\MS .NET\\.NET\\StudentSolutionFinal\\StudentManagement\\Service\\IStudentService.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Service\\IStudentService.cs",
+              "ToolTip": "F:\\MS .NET\\.NET\\StudentSolutionFinal\\StudentManagement\\Service\\IStudentService.cs",
+              "RelativeToolTip": "StudentManagement\\Service\\IStudentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:15:10.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IStudentRepoManag.cs",
+              "DocumentMoniker": "F:\\MS .NET\\.NET\\StudentSolutionFinal\\StudentManagement\\Repository\\IStudentRepoManag.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Repository\\IStudentRepoManag.cs",
+              "ToolTip": "F:\\MS .NET\\.NET\\StudentSolutionFinal\\StudentManagement\\Repository\\IStudentRepoManag.cs",
+              "RelativeToolTip": "StudentManagement\\Repository\\IStudentRepoManag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:12:06.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StudentRepoManag.cs",
+              "DocumentMoniker": "F:\\MS .NET\\.NET\\StudentSolutionFinal\\StudentManagement\\Repository\\StudentRepoManag.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Repository\\StudentRepoManag.cs",
+              "ToolTip": "F:\\MS .NET\\.NET\\StudentSolutionFinal\\StudentManagement\\Repository\\StudentRepoManag.cs",
+              "RelativeToolTip": "StudentManagement\\Repository\\StudentRepoManag.cs",
+              "ViewState": "AQIAAAoAAAAwMzMzMzM9wAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:13:02.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConnectionContext.cs",
+              "DocumentMoniker": "F:\\MS .NET\\.NET\\StudentSolutionFinal\\StudentManagement\\Repository\\ConnectionContext.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Repository\\ConnectionContext.cs",
+              "ToolTip": "F:\\MS .NET\\.NET\\StudentSolutionFinal\\StudentManagement\\Repository\\ConnectionContext.cs",
+              "RelativeToolTip": "StudentManagement\\Repository\\ConnectionContext.cs",
+              "ViewState": "AQIAABEAAADAzMzMzMwqwB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:10:47.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\MS .NET\\.NET\\StudentSolutionFinal\\StudentManagement\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Program.cs",
+              "ToolTip": "F:\\MS .NET\\.NET\\StudentSolutionFinal\\StudentManagement\\Program.cs",
+              "RelativeToolTip": "StudentManagement\\Program.cs",
+              "ViewState": "AQIAAA8AAABgZmZmZmYkwAgAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:24:48.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\MS .NET\\.NET\\StudentSolutionFinal\\StudentManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\MS .NET\\.NET\\StudentSolutionFinal\\StudentManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABMAAAAAMzMzMzMLwBwAAACAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T16:35:32.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "F:\\MS .NET\\.NET\\StudentSolutionFinal\\StudentManagement\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Controllers\\StudentController.cs",
+              "ToolTip": "F:\\MS .NET\\.NET\\StudentSolutionFinal\\StudentManagement\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentManagement\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:18:58.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetAllStudents.cshtml",
+              "DocumentMoniker": "F:\\MS .NET\\.NET\\StudentSolutionFinal\\StudentManagement\\Views\\Student\\GetAllStudents.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Student\\GetAllStudents.cshtml",
+              "ToolTip": "F:\\MS .NET\\.NET\\StudentSolutionFinal\\StudentManagement\\Views\\Student\\GetAllStudents.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\Student\\GetAllStudents.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAADwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T16:24:07.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StudentManagement.csproj",
+              "DocumentMoniker": "F:\\MS .NET\\.NET\\StudentSolutionFinal\\StudentManagement\\StudentManagement.csproj",
+              "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.csproj",
+              "ToolTip": "F:\\MS .NET\\.NET\\StudentSolutionFinal\\StudentManagement\\StudentManagement.csproj",
+              "RelativeToolTip": "StudentManagement\\StudentManagement.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-09T16:09:50.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "F:\\MS .NET\\.NET\\StudentSolutionFinal\\StudentManagement\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Models\\Student.cs",
+              "ToolTip": "F:\\MS .NET\\.NET\\StudentSolutionFinal\\StudentManagement\\Models\\Student.cs",
+              "RelativeToolTip": "StudentManagement\\Models\\Student.cs",
+              "ViewState": "AQIAAAEAAAAAMzMzMzMLwAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:08:54.799Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

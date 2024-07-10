@@ -1,0 +1,95 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = StudentManagement
+build_property.RootNamespace = StudentManagement
+build_property.ProjectDir = F:\MS .NET\.NET\StudentSolutionFinal\StudentManagement\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = F:\MS .NET\.NET\StudentSolutionFinal\StudentManagement
+build_property._RazorSourceGeneratorDebug = 
+
+[F:/MS .NET/.NET/StudentSolutionFinal/StudentManagement/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/MS .NET/.NET/StudentSolutionFinal/StudentManagement/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/MS .NET/.NET/StudentSolutionFinal/StudentManagement/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/MS .NET/.NET/StudentSolutionFinal/StudentManagement/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/MS .NET/.NET/StudentSolutionFinal/StudentManagement/Views/Student/GetAllStudents.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxHZXRBbGxTdHVkZW50cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/MS .NET/.NET/StudentSolutionFinal/StudentManagement/Views/Student/GetDateByInput.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxHZXREYXRlQnlJbnB1dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/MS .NET/.NET/StudentSolutionFinal/StudentManagement/Views/Student/Insert.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxJbnNlcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/MS .NET/.NET/StudentSolutionFinal/StudentManagement/Views/Student/SearchByDate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxTZWFyY2hCeURhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/MS .NET/.NET/StudentSolutionFinal/StudentManagement/Views/Student/SearchByName.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxTZWFyY2hCeU5hbWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/MS .NET/.NET/StudentSolutionFinal/StudentManagement/Views/Student/SearchName.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxTZWFyY2hOYW1lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/MS .NET/.NET/StudentSolutionFinal/StudentManagement/Views/Student/Sort.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxTb3J0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/MS .NET/.NET/StudentSolutionFinal/StudentManagement/Views/Student/SortByFees.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxTb3J0QnlGZWVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/MS .NET/.NET/StudentSolutionFinal/StudentManagement/Views/Student/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/MS .NET/.NET/StudentSolutionFinal/StudentManagement/Views/Student/View.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/MS .NET/.NET/StudentSolutionFinal/StudentManagement/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/MS .NET/.NET/StudentSolutionFinal/StudentManagement/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/MS .NET/.NET/StudentSolutionFinal/StudentManagement/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-y9obw7rtys

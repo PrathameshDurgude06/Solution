@@ -1,0 +1,103 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = StudentManagement
+build_property.RootNamespace = StudentManagement
+build_property.ProjectDir = F:\MS .NET\StudentManagement_Login\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = F:\MS .NET\StudentManagement_Login
+build_property._RazorSourceGeneratorDebug = 
+
+[F:/MS .NET/StudentManagement_Login/Views/AdminAuth/AddNewStudent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BdXRoXEFkZE5ld1N0dWRlbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/MS .NET/StudentManagement_Login/Views/AdminAuth/deleteStudent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BdXRoXGRlbGV0ZVN0dWRlbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/MS .NET/StudentManagement_Login/Views/AdminAuth/GetAllStudent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BdXRoXEdldEFsbFN0dWRlbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/MS .NET/StudentManagement_Login/Views/AdminAuth/ResultSearchStudent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BdXRoXFJlc3VsdFNlYXJjaFN0dWRlbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/MS .NET/StudentManagement_Login/Views/AdminAuth/SearchStudent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BdXRoXFNlYXJjaFN0dWRlbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/MS .NET/StudentManagement_Login/Views/AdminAuth/SortStudent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BdXRoXFNvcnRTdHVkZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/MS .NET/StudentManagement_Login/Views/AdminAuth/UpdateStudent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BdXRoXFVwZGF0ZVN0dWRlbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/MS .NET/StudentManagement_Login/Views/Admin/AdminDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/MS .NET/StudentManagement_Login/Views/Admin/AdminLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5Mb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/MS .NET/StudentManagement_Login/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/MS .NET/StudentManagement_Login/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/MS .NET/StudentManagement_Login/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/MS .NET/StudentManagement_Login/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/MS .NET/StudentManagement_Login/Views/StdAuth/EditStd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RkQXV0aFxFZGl0U3RkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/MS .NET/StudentManagement_Login/Views/StdAuth/GetStudentByID.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RkQXV0aFxHZXRTdHVkZW50QnlJRC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/MS .NET/StudentManagement_Login/Views/StdAuth/ResultStudentByID.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RkQXV0aFxSZXN1bHRTdHVkZW50QnlJRC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/MS .NET/StudentManagement_Login/Views/Studnet/StudentDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZG5ldFxTdHVkZW50RGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/MS .NET/StudentManagement_Login/Views/Studnet/StudentLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZG5ldFxTdHVkZW50TG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/MS .NET/StudentManagement_Login/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/MS .NET/StudentManagement_Login/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/MS .NET/StudentManagement_Login/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-y9obw7rtys

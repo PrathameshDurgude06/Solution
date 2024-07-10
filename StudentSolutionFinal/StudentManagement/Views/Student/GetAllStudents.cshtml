@@ -1,0 +1,72 @@
+﻿@model IEnumerable<BOL.Student>
+
+@{
+    ViewData["Title"] = "GetAllStudents";
+}
+
+<h1>GetAllStudents</h1>
+
+<p>
+    <a asp-action="Insert">Create New</a>
+    <a asp-action="Sort">Sorting</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Student_id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Student_Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Mobile_No)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Address)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Fees)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Status)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Student_id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Student_Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Mobile_No)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Address)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Fees)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Status)
+            </td>
+            <td>
+                    <a asp-action="Update" class="btn btn-outline-dark" asp-route-id="@item.Student_id">Update</a>
+                    <a asp-action="Delete" asp-route-id="@item.Student_id">Delete</a>
+                    <a asp-action="View" asp-route-id="@item.Student_id">View</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
